@@ -1,3 +1,4 @@
+//reference: https://kylemcdonald.github.io/cv-examples/FrameDifference/
 //note here it is drawing the data set, but I only need to export as a module
 // let capture;
 // let previousFrame;
